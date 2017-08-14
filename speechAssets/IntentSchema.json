@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "GetCalendarWeek",
+      "slots": [
+        {
+          "name": "date",
+          "type": "AMAZON.DATE"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}

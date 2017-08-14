@@ -1,0 +1,4 @@
+GetCalendarWeek Alexa frag kalenderwoche
+GetCalendarWeek Alexa frag kalenderwoche vom {date}
+GetCalendarWeek Alexa frag kalenderwoche am {date}
+GetCalendarWeek Alexa frag kalenderwoche für den {date}
